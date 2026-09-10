@@ -1,0 +1,151 @@
+- repo: nix_stable_24_11
+  srcname: mindforger
+  visiblename: mindforger
+  version: 1.52.0
+  origversion: null
+  status: outdated
+  summary: Thinking Notebook & Markdown IDE
+  maintainers:
+    - nixos@cyplo.dev
+  licenses:
+    - GPL-2.0-or-later
+- repo: aur
+  srcname: mindforger
+  binname: mindforger
+  visiblename: mindforger
+  version: 2.0.0
+  origversion: 2.0.0-2
+  status: outdated
+  summary: Thinking notebook and Markdown IDE. Search, browse, view and edit your Markdown files. Get as much as possible from knowledge in your remarks
+  maintainers:
+    - fabiololix@aur
+    - qtmax@aur
+  licenses:
+    - GPL-2.0-or-later
+- repo: freebsd
+  srcname: deskutils/mindforger
+  binname: mindforger
+  visiblename: deskutils/mindforger
+  version: 1.54.0
+  origversion: 1.54.0_2
+  status: outdated
+  summary: Thinking notebook and markdown editor
+  maintainers:
+    - danfe@freebsd.org
+  categories:
+    - deskutils
+- repo: homebrew_casks
+  srcname: mindforger
+  visiblename: MindForger
+  version: 2.0.0-20240217.170738
+  origversion: null
+  status: outdated
+  summary: Thinking notebook and Markdown IDE
+- repo: macports
+  srcname: editors/mindforger
+  binname: mindforger
+  visiblename: mindforger
+  version: 2.0.0
+  origversion: null
+  status: outdated
+  summary: Thinking notebook and Markdown editor
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - GPL-2
+  categories:
+    - editors
+- repo: nix_stable_24_05
+  srcname: mindforger
+  visiblename: mindforger
+  version: 1.52.0
+  origversion: null
+  status: outdated
+  summary: Thinking Notebook & Markdown IDE
+  maintainers:
+    - nixos@cyplo.dev
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_25_05
+  srcname: mindforger
+  visiblename: mindforger
+  version: 2.0.0
+  origversion: null
+  status: outdated
+  summary: Thinking Notebook & Markdown IDE
+  maintainers:
+    - nixos@cyplo.dev
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_25_11
+  srcname: mindforger
+  visiblename: mindforger
+  version: 2.0.0
+  origversion: null
+  status: outdated
+  summary: Thinking Notebook & Markdown IDE
+  maintainers:
+    - nixos@cyplo.dev
+  licenses:
+    - GPL-2.0-or-later
+- repo: pisi_main
+  subrepo: main
+  srcname: office/mindforger
+  visiblename: mindforger
+  version: 1.48.2
+  origversion: null
+  status: outdated
+  summary: MindForger is open, free, well performing Markdown IDE which respects your privacy and enables security.
+  maintainers:
+    - admins@pisilinux.org
+  licenses:
+    - GPLv2
+  categories:
+    - library
+- repo: scoop
+  subrepo: extras
+  binname: mindforger
+  visiblename: mindforger
+  version: 2.0.1
+  origversion: null
+  status: outdated
+  licenses:
+    - GPL-2.0-or-later
+- repo: solus
+  srcname: mindforger
+  binname: mindforger
+  visiblename: mindforger
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Thinking notebook and Markdown IDE
+  maintainers:
+    - maddock.evan@vivaldi.net
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - office.notes
+- repo: solus
+  srcname: mindforger
+  binname: mindforger-dbginfo
+  visiblename: mindforger-dbginfo
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Debug symbols for mindforger
+  maintainers:
+    - maddock.evan@vivaldi.net
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - debug
+- repo: termux
+  srcname: mindforger
+  binname: mindforger
+  visiblename: mindforger
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Thinking Notebook & Markdown Editor
+  maintainers:
+    - termux@github
