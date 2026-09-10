@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 107417600,
       "digest": "sha256:c9ecf6ed932f69050a7e4d085dc990bc526b5d1994de1fcb45d329a2b064c6d4",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2026-09-03T17:20:23Z",
       "updated_at": "2026-09-03T17:20:54Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.1.0/mindforger_2.1.0_amd64.snap"
