@@ -14,14 +14,14 @@ x install mindforger
 
 ## 代码洞察
 
-合计: **169,675** 行代码（覆盖前 5 种语言、共 **661** 个文件）。
+合计: **170,553** 行代码（覆盖前 5 种语言、共 **664** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 73,470 | 9,030 | 7,769 | 243 |
+| Cpp | 74,230 | 9,181 | 7,886 | 244 |
 | TypeScript | 28,529 | 0 | 5 | 5 |
-| CHeader | 23,504 | 11,321 | 4,162 | 261 |
-| Svg | 19,242 | 91 | 91 | 135 |
+| CHeader | 23,557 | 11,367 | 4,179 | 262 |
+| Svg | 19,300 | 91 | 91 | 136 |
 | CppHeader | 18,447 | 4,492 | 3,240 | 17 |
 
 ## 源代码
@@ -32,41 +32,37 @@ x install mindforger
 
 ## 发布
 
-- **最新版本**: `2.1.0` (2026-09-03)
-- **最近提交**: 2026-09-04
+- **最新版本**: `2.2.0` (2026-09-13)
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 2,718 · **Fork**: 173 · **开放 issue**: 1,515 · **贡献者**: 10
+- **Star**: 2,718 · **Fork**: 173 · **开放 issue**: 1,516 · **贡献者**: 11
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 33 · **开放 PR**: 1 · **已关闭 issue**: 890 · **开放 issue**: 625 · **提交数**: 1957
+- **发布数**: 14 · **已合并 PR**: 36 · **开放 PR**: 2 · **已关闭 issue**: 892 · **开放 issue**: 624 · **提交数**: 1985
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 6 | 1 | 0 | 3 | 36 |
-| last60d | 2026-07-15 | 1 | 6 | 1 | 0 | 3 | 36 |
-| 90d | 2026-06-15 | 1 | 6 | 1 | 0 | 3 | 36 |
-| last180d | 2026-03-17 | 1 | 6 | 1 | 1 | 3 | 73 |
-| 360d | 2025-09-18 | 1 | 7 | 1 | 1 | 3 | 75 |
-| last720d | 2024-09-23 | 1 | 8 | 1 | 3 | 10 | 88 |
+| 30d | 2026-08-15 | 2 | 9 | 2 | 1 | 3 | 61 |
+| last60d | 2026-07-16 | 2 | 9 | 2 | 1 | 3 | 61 |
+| 90d | 2026-06-16 | 2 | 9 | 2 | 1 | 3 | 61 |
+| last180d | 2026-03-18 | 2 | 9 | 2 | 2 | 3 | 98 |
+| 360d | 2025-09-19 | 2 | 10 | 2 | 2 | 3 | 100 |
+| last720d | 2024-09-24 | 2 | 11 | 2 | 4 | 10 | 116 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ci-mindforger-2.1.0-20260903.164637-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.1.0/ci-mindforger-2.1.0-20260903.164637-intel.dmg) | 92.9 MiB | `other` |
-| [mindforger_2.1.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.1.0/mindforger_2.1.0_amd64.snap) | 102.4 MiB | `other` |
-| [mindforger_2.1.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.1.0/mindforger_2.1.0_tarball.tgz) | 13.1 MiB | `native/unknown` |
-| [windows-installer-mindforger-2.1.0-ff388a4.exe](https://github.com/dvorka/mindforger/releases/download/2.1.0/windows-installer-mindforger-2.1.0-ff388a4.exe) | 88.2 MiB | `native/win/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/mindforger) 上共有 **13** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+| [mindforger-2.2.0-20260913.174438-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger-2.2.0-20260913.174438-intel.dmg) | 94.4 MiB | `other` |
+| [mindforger_2.2.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger_2.2.0_amd64.snap) | 142.1 MiB | `other` |
+| [mindforger_2.2.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger_2.2.0_tarball.tgz) | 16.8 MiB | `native/unknown` |
+| [windows-installer-mindforger-2.2.0.exe](https://github.com/dvorka/mindforger/releases/download/2.2.0/windows-installer-mindforger-2.2.0.exe) | 89.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -77,4 +73,4 @@ mindforger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:22:41Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:33:45Z._

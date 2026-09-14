@@ -14,14 +14,14 @@ x install mindforger
 
 ## Code insight
 
-Total: **169,675** lines of code across **661** files in the top 5 languages.
+Total: **170,553** lines of code across **664** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 73,470 | 9,030 | 7,769 | 243 |
+| Cpp | 74,230 | 9,181 | 7,886 | 244 |
 | TypeScript | 28,529 | 0 | 5 | 5 |
-| CHeader | 23,504 | 11,321 | 4,162 | 261 |
-| Svg | 19,242 | 91 | 91 | 135 |
+| CHeader | 23,557 | 11,367 | 4,179 | 262 |
+| Svg | 19,300 | 91 | 91 | 136 |
 | CppHeader | 18,447 | 4,492 | 3,240 | 17 |
 
 ## Source
@@ -32,41 +32,37 @@ Total: **169,675** lines of code across **661** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.1.0` (2026-09-03)
-- **Last commit**: 2026-09-04
+- **Latest**: `2.2.0` (2026-09-13)
+- **Last commit**: 2026-09-13
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 2,718 · **Forks**: 173 · **Open issues**: 1,515 · **Contributors**: 10
+- **Stars**: 2,718 · **Forks**: 173 · **Open issues**: 1,516 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 33 · **Open PRs**: 1 · **Closed issues**: 890 · **Open issues**: 625 · **Commits**: 1957
+- **Releases**: 14 · **Merged PRs**: 36 · **Open PRs**: 2 · **Closed issues**: 892 · **Open issues**: 624 · **Commits**: 1985
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 6 | 1 | 0 | 3 | 36 |
-| last60d | 2026-07-15 | 1 | 6 | 1 | 0 | 3 | 36 |
-| 90d | 2026-06-15 | 1 | 6 | 1 | 0 | 3 | 36 |
-| last180d | 2026-03-17 | 1 | 6 | 1 | 1 | 3 | 73 |
-| 360d | 2025-09-18 | 1 | 7 | 1 | 1 | 3 | 75 |
-| last720d | 2024-09-23 | 1 | 8 | 1 | 3 | 10 | 88 |
+| 30d | 2026-08-15 | 2 | 9 | 2 | 1 | 3 | 61 |
+| last60d | 2026-07-16 | 2 | 9 | 2 | 1 | 3 | 61 |
+| 90d | 2026-06-16 | 2 | 9 | 2 | 1 | 3 | 61 |
+| last180d | 2026-03-18 | 2 | 9 | 2 | 2 | 3 | 98 |
+| 360d | 2025-09-19 | 2 | 10 | 2 | 2 | 3 | 100 |
+| last720d | 2024-09-24 | 2 | 11 | 2 | 4 | 10 | 116 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ci-mindforger-2.1.0-20260903.164637-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.1.0/ci-mindforger-2.1.0-20260903.164637-intel.dmg) | 92.9 MiB | `other` |
-| [mindforger_2.1.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.1.0/mindforger_2.1.0_amd64.snap) | 102.4 MiB | `other` |
-| [mindforger_2.1.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.1.0/mindforger_2.1.0_tarball.tgz) | 13.1 MiB | `native/unknown` |
-| [windows-installer-mindforger-2.1.0-ff388a4.exe](https://github.com/dvorka/mindforger/releases/download/2.1.0/windows-installer-mindforger-2.1.0-ff388a4.exe) | 88.2 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/mindforger). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+| [mindforger-2.2.0-20260913.174438-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger-2.2.0-20260913.174438-intel.dmg) | 94.4 MiB | `other` |
+| [mindforger_2.2.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger_2.2.0_amd64.snap) | 142.1 MiB | `other` |
+| [mindforger_2.2.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger_2.2.0_tarball.tgz) | 16.8 MiB | `native/unknown` |
+| [windows-installer-mindforger-2.2.0.exe](https://github.com/dvorka/mindforger/releases/download/2.2.0/windows-installer-mindforger-2.2.0.exe) | 89.5 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -77,4 +73,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:22:40Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:33:45Z._
