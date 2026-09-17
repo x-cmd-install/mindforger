@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 149053440,
       "digest": "sha256:4e06e2ba2c074bf9e22111183a7442bc3fe5228e6e6ffb2a9891ed899de66083",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-13T18:59:14Z",
       "updated_at": "2026-09-13T19:00:10Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger_2.2.0_amd64.snap"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 93805506,
       "digest": "sha256:66461e390cb7820a1d22cf3a5ec697e63b9db658172479e0518fe576eb746e7d",
-      "download_count": 62,
+      "download_count": 80,
       "created_at": "2026-09-13T18:57:26Z",
       "updated_at": "2026-09-13T18:58:18Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.2.0/windows-installer-mindforger-2.2.0.exe"
