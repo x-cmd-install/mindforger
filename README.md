@@ -33,7 +33,7 @@ Total: **170,553** lines of code across **664** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.2.0` (2026-09-13)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-16
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **170,553** lines of code across **664** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 38 · **Open PRs**: 4 · **Closed issues**: 896 · **Open issues**: 622 · **Commits**: 1985
+- **Releases**: 14 · **Merged PRs**: 39 · **Open PRs**: 3 · **Closed issues**: 896 · **Open issues**: 622 · **Commits**: 1986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 2 | 11 | 4 | 2 | 4 | 61 |
-| last60d | 2026-07-18 | 2 | 11 | 4 | 2 | 4 | 61 |
-| 90d | 2026-06-18 | 2 | 11 | 4 | 2 | 4 | 61 |
-| last180d | 2026-03-20 | 2 | 11 | 4 | 3 | 4 | 98 |
-| 360d | 2025-09-21 | 2 | 12 | 4 | 3 | 4 | 100 |
-| last720d | 2024-09-26 | 2 | 13 | 4 | 5 | 11 | 116 |
+| 30d | 2026-08-18 | 2 | 12 | 3 | 2 | 4 | 62 |
+| last60d | 2026-07-19 | 2 | 12 | 3 | 2 | 4 | 62 |
+| 90d | 2026-06-19 | 2 | 12 | 3 | 2 | 4 | 62 |
+| last180d | 2026-03-21 | 2 | 12 | 3 | 3 | 4 | 99 |
+| 360d | 2025-09-22 | 2 | 13 | 3 | 3 | 4 | 101 |
+| last720d | 2024-09-27 | 2 | 14 | 3 | 5 | 11 | 117 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:43:26Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:34:38Z._
