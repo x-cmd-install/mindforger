@@ -4,7 +4,7 @@
 
 Thinking notebook and Markdown editor.
 
-[![x-cmd/install — mindforger Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mindforger.svg)](https://x-cmd.com/install/mindforger)
+[![x-cmd/install — mindforger Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mindforger.svg)](https://x-cmd.com/install/mindforger)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install mindforger
 
 ## Code insight
 
-Total: **170,553** lines of code across **664** files in the top 5 languages.
+Total: **210,165** lines of code across **690** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 74,230 | 9,181 | 7,886 | 244 |
-| TypeScript | 28,529 | 0 | 5 | 5 |
-| CHeader | 23,557 | 11,367 | 4,179 | 262 |
-| Svg | 19,300 | 91 | 91 | 136 |
+| Cpp | 77,066 | 9,803 | 8,450 | 255 |
+| TypeScript | 60,778 | 0 | 18 | 10 |
+| CHeader | 24,027 | 11,730 | 4,306 | 269 |
+| Svg | 19,482 | 94 | 93 | 139 |
 | CppHeader | 18,447 | 4,492 | 3,240 | 17 |
 
 ## Source
@@ -32,37 +32,38 @@ Total: **170,553** lines of code across **664** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.2.0` (2026-09-13)
-- **Last commit**: 2026-09-16
-- **Assets in release**: 4
+- **Latest**: `2.4.0` (2026-09-22)
+- **Last commit**: 2026-09-22
+- **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 2,721 · **Forks**: 173 · **Open issues**: 1,518 · **Contributors**: 11
+- **Stars**: 2,721 · **Forks**: 173 · **Open issues**: 1,519 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 896 · **Open issues**: 622 · **Commits**: 1986
+- **Releases**: 16 · **Merged PRs**: 49 · **Open PRs**: 1 · **Closed issues**: 899 · **Open issues**: 620 · **Commits**: 2027
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 18 | 2 | 2 | 4 | 62 |
-| last60d | 2026-07-24 | 2 | 18 | 2 | 2 | 4 | 62 |
-| 90d | 2026-06-24 | 2 | 18 | 2 | 2 | 4 | 62 |
-| last180d | 2026-03-26 | 2 | 18 | 2 | 3 | 4 | 99 |
-| 360d | 2025-09-27 | 2 | 19 | 2 | 3 | 4 | 101 |
-| last720d | 2024-10-02 | 2 | 20 | 2 | 5 | 11 | 117 |
+| 30d | 2026-08-24 | 4 | 22 | 1 | 3 | 4 | 97 |
+| last60d | 2026-07-25 | 4 | 22 | 1 | 3 | 4 | 97 |
+| 90d | 2026-06-25 | 4 | 22 | 1 | 3 | 4 | 97 |
+| last180d | 2026-03-27 | 4 | 22 | 1 | 4 | 4 | 134 |
+| 360d | 2025-09-28 | 4 | 23 | 1 | 4 | 4 | 136 |
+| last720d | 2024-10-03 | 4 | 24 | 1 | 6 | 11 | 158 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [mindforger-2.2.0-20260913.174438-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger-2.2.0-20260913.174438-intel.dmg) | 94.4 MiB | `other` |
-| [mindforger_2.2.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger_2.2.0_amd64.snap) | 142.1 MiB | `other` |
-| [mindforger_2.2.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.2.0/mindforger_2.2.0_tarball.tgz) | 16.8 MiB | `native/unknown` |
-| [windows-installer-mindforger-2.2.0.exe](https://github.com/dvorka/mindforger/releases/download/2.2.0/windows-installer-mindforger-2.2.0.exe) | 89.5 MiB | `native/win/x64` |
+| [mindforger-2.4.0-20260922.184101-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger-2.4.0-20260922.184101-intel.dmg) | 94.8 MiB | `other` |
+| [mindforger-2.4.0.flatpak](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger-2.4.0.flatpak) | 55.5 MiB | `other` |
+| [mindforger_2.4.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger_2.4.0_amd64.snap) | 142.6 MiB | `other` |
+| [mindforger_2.4.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger_2.4.0_tarball.tgz) | 18.0 MiB | `native/unknown` |
+| [windows-installer-mindforger-2.4.0.exe](https://github.com/dvorka/mindforger/releases/download/2.4.0/windows-installer-mindforger-2.4.0.exe) | 89.8 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +74,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:32:04Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:45:23Z._
