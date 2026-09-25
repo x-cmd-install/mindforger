@@ -14,13 +14,13 @@ x install mindforger
 
 ## Code insight
 
-Total: **210,165** lines of code across **690** files in the top 5 languages.
+Total: **210,219** lines of code across **690** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 77,066 | 9,803 | 8,450 | 255 |
-| TypeScript | 60,778 | 0 | 18 | 10 |
-| CHeader | 24,027 | 11,730 | 4,306 | 269 |
+| Cpp | 77,086 | 9,816 | 8,456 | 255 |
+| TypeScript | 60,810 | 0 | 18 | 10 |
+| CHeader | 24,029 | 11,738 | 4,307 | 269 |
 | Svg | 19,482 | 94 | 93 | 139 |
 | CppHeader | 18,447 | 4,492 | 3,240 | 17 |
 
@@ -33,7 +33,7 @@ Total: **210,165** lines of code across **690** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.4.0` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-24
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,25 +42,25 @@ Total: **210,165** lines of code across **690** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 49 · **Open PRs**: 2 · **Closed issues**: 899 · **Open issues**: 620 · **Commits**: 2027
+- **Releases**: 16 · **Merged PRs**: 50 · **Open PRs**: 1 · **Closed issues**: 900 · **Open issues**: 619 · **Commits**: 2030
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 4 | 22 | 2 | 3 | 4 | 97 |
-| last60d | 2026-07-26 | 4 | 22 | 2 | 3 | 4 | 97 |
-| 90d | 2026-06-26 | 4 | 22 | 2 | 3 | 4 | 97 |
-| last180d | 2026-03-28 | 4 | 22 | 2 | 4 | 4 | 134 |
-| 360d | 2025-09-29 | 4 | 23 | 2 | 4 | 4 | 136 |
-| last720d | 2024-10-04 | 4 | 24 | 2 | 6 | 11 | 158 |
+| 30d | 2026-08-26 | 4 | 23 | 1 | 4 | 3 | 99 |
+| last60d | 2026-07-27 | 4 | 23 | 1 | 4 | 3 | 99 |
+| 90d | 2026-06-27 | 4 | 23 | 1 | 4 | 3 | 99 |
+| last180d | 2026-03-29 | 4 | 23 | 1 | 5 | 3 | 136 |
+| 360d | 2025-09-30 | 4 | 24 | 1 | 5 | 3 | 138 |
+| last720d | 2024-10-05 | 4 | 25 | 1 | 7 | 10 | 161 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [mindforger-2.4.0-20260922.184101-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger-2.4.0-20260922.184101-intel.dmg) | 94.8 MiB | `other` |
-| [mindforger-2.4.0.flatpak](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger-2.4.0.flatpak) | 55.5 MiB | `other` |
+| [mindforger-2.4.1.flatpak](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger-2.4.1.flatpak) | 55.5 MiB | `other` |
 | [mindforger_2.4.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger_2.4.0_amd64.snap) | 142.6 MiB | `other` |
 | [mindforger_2.4.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger_2.4.0_tarball.tgz) | 18.0 MiB | `native/unknown` |
 | [windows-installer-mindforger-2.4.0.exe](https://github.com/dvorka/mindforger/releases/download/2.4.0/windows-installer-mindforger-2.4.0.exe) | 89.8 MiB | `native/win/x64` |
@@ -74,4 +74,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:56:46Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:13:37Z._
