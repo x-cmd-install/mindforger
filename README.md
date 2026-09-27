@@ -14,13 +14,13 @@ x install mindforger
 
 ## Code insight
 
-Total: **210,219** lines of code across **690** files in the top 5 languages.
+Total: **212,599** lines of code across **695** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 77,086 | 9,816 | 8,456 | 255 |
-| TypeScript | 60,810 | 0 | 18 | 10 |
-| CHeader | 24,029 | 11,738 | 4,307 | 269 |
+| Cpp | 77,963 | 10,000 | 8,595 | 258 |
+| TypeScript | 61,574 | 0 | 18 | 10 |
+| CHeader | 24,181 | 11,866 | 4,347 | 271 |
 | Svg | 19,482 | 94 | 93 | 139 |
 | CppHeader | 18,447 | 4,492 | 3,240 | 17 |
 
@@ -32,38 +32,38 @@ Total: **210,219** lines of code across **690** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.4.0` (2026-09-22)
-- **Last commit**: 2026-09-24
+- **Latest**: `2.5.0` (2026-09-26)
+- **Last commit**: 2026-09-26
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 2,721 · **Forks**: 173 · **Open issues**: 1,519 · **Contributors**: 11
+- **Stars**: 2,721 · **Forks**: 173 · **Open issues**: 1,520 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 54 · **Open PRs**: 1 · **Closed issues**: 902 · **Open issues**: 617 · **Commits**: 2030
+- **Releases**: 17 · **Merged PRs**: 55 · **Open PRs**: 0 · **Closed issues**: 906 · **Open issues**: 614 · **Commits**: 2045
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 4 | 27 | 1 | 4 | 3 | 99 |
-| last60d | 2026-07-28 | 4 | 27 | 1 | 4 | 3 | 99 |
-| 90d | 2026-06-28 | 4 | 27 | 1 | 4 | 3 | 99 |
-| last180d | 2026-03-30 | 4 | 27 | 1 | 5 | 3 | 136 |
-| 360d | 2025-10-01 | 4 | 28 | 1 | 5 | 3 | 138 |
-| last720d | 2024-10-06 | 4 | 29 | 1 | 9 | 8 | 161 |
+| 30d | 2026-08-28 | 5 | 28 | 0 | 6 | 2 | 78 |
+| last60d | 2026-07-29 | 5 | 28 | 0 | 6 | 2 | 113 |
+| 90d | 2026-06-29 | 5 | 28 | 0 | 6 | 2 | 113 |
+| last180d | 2026-03-31 | 5 | 28 | 0 | 7 | 2 | 150 |
+| 360d | 2025-10-02 | 5 | 29 | 0 | 7 | 2 | 152 |
+| last720d | 2024-10-07 | 5 | 30 | 0 | 13 | 5 | 176 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [mindforger-2.4.0-20260922.184101-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger-2.4.0-20260922.184101-intel.dmg) | 94.8 MiB | `other` |
-| [mindforger-2.4.1.flatpak](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger-2.4.1.flatpak) | 55.5 MiB | `other` |
-| [mindforger_2.4.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger_2.4.0_amd64.snap) | 142.6 MiB | `other` |
-| [mindforger_2.4.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.4.0/mindforger_2.4.0_tarball.tgz) | 18.0 MiB | `native/unknown` |
-| [windows-installer-mindforger-2.4.0.exe](https://github.com/dvorka/mindforger/releases/download/2.4.0/windows-installer-mindforger-2.4.0.exe) | 89.8 MiB | `native/win/x64` |
+| [mindforger-2.5.0-20260926.191335-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-20260926.191335-intel.dmg) | 94.8 MiB | `other` |
+| [mindforger-2.5.0.flatpak](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0.flatpak) | 55.5 MiB | `other` |
+| [mindforger_2.5.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger_2.5.0_amd64.snap) | 142.6 MiB | `other` |
+| [mindforger_2.5.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger_2.5.0_tarball.tgz) | 20.8 MiB | `native/unknown` |
+| [windows-installer-mindforger-2.5.0.exe](https://github.com/dvorka/mindforger/releases/download/2.5.0/windows-installer-mindforger-2.5.0.exe) | 89.8 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:14:43Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:29:13Z._
