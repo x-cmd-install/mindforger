@@ -14,7 +14,7 @@ x install mindforger
 
 ## 代码洞察
 
-合计: **212,599** 行代码（覆盖前 5 种语言、共 **695** 个文件）。
+合计: **212,971** 行代码（覆盖前 5 种语言、共 **695** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -33,32 +33,36 @@ x install mindforger
 ## 发布
 
 - **最新版本**: `2.5.0` (2026-09-26)
-- **最近提交**: 2026-09-26
-- **Release 含资产**: 5 个
+- **最近提交**: 2026-09-27
+- **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 2,721 · **Fork**: 173 · **开放 issue**: 1,520 · **贡献者**: 11
+- **Star**: 2,721 · **Fork**: 173 · **开放 issue**: 1,521 · **贡献者**: 11
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 55 · **开放 PR**: 0 · **已关闭 issue**: 906 · **开放 issue**: 614 · **提交数**: 2045
+- **发布数**: 17 · **已合并 PR**: 57 · **开放 PR**: 1 · **已关闭 issue**: 912 · **开放 issue**: 609 · **提交数**: 2048
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 5 | 28 | 0 | 6 | 2 | 78 |
-| last60d | 2026-07-29 | 5 | 28 | 0 | 6 | 2 | 113 |
-| 90d | 2026-06-29 | 5 | 28 | 0 | 6 | 2 | 113 |
-| last180d | 2026-03-31 | 5 | 28 | 0 | 7 | 2 | 150 |
-| 360d | 2025-10-02 | 5 | 29 | 0 | 7 | 2 | 152 |
-| last720d | 2024-10-07 | 5 | 30 | 0 | 13 | 5 | 176 |
+| 30d | 2026-08-29 | 5 | 30 | 1 | 7 | 2 | 81 |
+| last60d | 2026-07-30 | 5 | 30 | 1 | 7 | 2 | 116 |
+| 90d | 2026-06-30 | 5 | 30 | 1 | 7 | 2 | 116 |
+| last180d | 2026-04-01 | 5 | 30 | 1 | 8 | 2 | 153 |
+| 360d | 2025-10-03 | 5 | 31 | 1 | 8 | 2 | 155 |
+| last720d | 2024-10-08 | 5 | 32 | 1 | 14 | 5 | 179 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
+| [mindforger-2.5.0-1.fc43.aarch64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc43.aarch64.rpm) | 5.8 MiB | `runtime/rpm/aarch64` |
+| [mindforger-2.5.0-1.fc43.x86_64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc43.x86_64.rpm) | 5.9 MiB | `runtime/rpm/x86_64` |
+| [mindforger-2.5.0-1.fc44.aarch64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc44.aarch64.rpm) | 5.8 MiB | `runtime/rpm/aarch64` |
+| [mindforger-2.5.0-1.fc44.x86_64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc44.x86_64.rpm) | 5.9 MiB | `runtime/rpm/x86_64` |
 | [mindforger-2.5.0-20260926.191335-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-20260926.191335-intel.dmg) | 94.8 MiB | `other` |
 | [mindforger-2.5.0.flatpak](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0.flatpak) | 55.5 MiB | `other` |
 | [mindforger_2.5.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger_2.5.0_amd64.snap) | 142.6 MiB | `other` |
@@ -74,4 +78,4 @@ mindforger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260927.yml` · 2026-09-27T06:29:14Z._
+_数据快照: `data/card/260928.yml` · 2026-09-28T06:39:04Z._

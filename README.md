@@ -14,7 +14,7 @@ x install mindforger
 
 ## Code insight
 
-Total: **212,599** lines of code across **695** files in the top 5 languages.
+Total: **212,971** lines of code across **695** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,32 +33,36 @@ Total: **212,599** lines of code across **695** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.5.0` (2026-09-26)
-- **Last commit**: 2026-09-26
-- **Assets in release**: 5
+- **Last commit**: 2026-09-27
+- **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 2,721 · **Forks**: 173 · **Open issues**: 1,520 · **Contributors**: 11
+- **Stars**: 2,721 · **Forks**: 173 · **Open issues**: 1,521 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 55 · **Open PRs**: 0 · **Closed issues**: 906 · **Open issues**: 614 · **Commits**: 2045
+- **Releases**: 17 · **Merged PRs**: 57 · **Open PRs**: 1 · **Closed issues**: 912 · **Open issues**: 609 · **Commits**: 2048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 5 | 28 | 0 | 6 | 2 | 78 |
-| last60d | 2026-07-29 | 5 | 28 | 0 | 6 | 2 | 113 |
-| 90d | 2026-06-29 | 5 | 28 | 0 | 6 | 2 | 113 |
-| last180d | 2026-03-31 | 5 | 28 | 0 | 7 | 2 | 150 |
-| 360d | 2025-10-02 | 5 | 29 | 0 | 7 | 2 | 152 |
-| last720d | 2024-10-07 | 5 | 30 | 0 | 13 | 5 | 176 |
+| 30d | 2026-08-29 | 5 | 30 | 1 | 7 | 2 | 81 |
+| last60d | 2026-07-30 | 5 | 30 | 1 | 7 | 2 | 116 |
+| 90d | 2026-06-30 | 5 | 30 | 1 | 7 | 2 | 116 |
+| last180d | 2026-04-01 | 5 | 30 | 1 | 8 | 2 | 153 |
+| 360d | 2025-10-03 | 5 | 31 | 1 | 8 | 2 | 155 |
+| last720d | 2024-10-08 | 5 | 32 | 1 | 14 | 5 | 179 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
+| [mindforger-2.5.0-1.fc43.aarch64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc43.aarch64.rpm) | 5.8 MiB | `runtime/rpm/aarch64` |
+| [mindforger-2.5.0-1.fc43.x86_64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc43.x86_64.rpm) | 5.9 MiB | `runtime/rpm/x86_64` |
+| [mindforger-2.5.0-1.fc44.aarch64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc44.aarch64.rpm) | 5.8 MiB | `runtime/rpm/aarch64` |
+| [mindforger-2.5.0-1.fc44.x86_64.rpm](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-1.fc44.x86_64.rpm) | 5.9 MiB | `runtime/rpm/x86_64` |
 | [mindforger-2.5.0-20260926.191335-intel.dmg](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-20260926.191335-intel.dmg) | 94.8 MiB | `other` |
 | [mindforger-2.5.0.flatpak](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0.flatpak) | 55.5 MiB | `other` |
 | [mindforger_2.5.0_amd64.snap](https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger_2.5.0_amd64.snap) | 142.6 MiB | `other` |
@@ -74,4 +78,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:29:13Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:39:02Z._
