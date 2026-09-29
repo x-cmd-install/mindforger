@@ -42,18 +42,18 @@ Total: **212,971** lines of code across **695** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 57 · **Open PRs**: 1 · **Closed issues**: 912 · **Open issues**: 609 · **Commits**: 2048
+- **Releases**: 17 · **Merged PRs**: 57 · **Open PRs**: 2 · **Closed issues**: 912 · **Open issues**: 609 · **Commits**: 2048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 5 | 30 | 1 | 7 | 2 | 81 |
-| last60d | 2026-07-30 | 5 | 30 | 1 | 7 | 2 | 116 |
-| 90d | 2026-06-30 | 5 | 30 | 1 | 7 | 2 | 116 |
-| last180d | 2026-04-01 | 5 | 30 | 1 | 8 | 2 | 153 |
-| 360d | 2025-10-03 | 5 | 31 | 1 | 8 | 2 | 155 |
-| last720d | 2024-10-08 | 5 | 32 | 1 | 14 | 5 | 179 |
+| 30d | 2026-08-30 | 5 | 30 | 2 | 7 | 2 | 81 |
+| last60d | 2026-07-31 | 5 | 30 | 2 | 7 | 2 | 116 |
+| 90d | 2026-07-01 | 5 | 30 | 2 | 7 | 2 | 116 |
+| last180d | 2026-04-02 | 5 | 30 | 2 | 8 | 2 | 153 |
+| 360d | 2025-10-04 | 5 | 31 | 2 | 8 | 2 | 155 |
+| last720d | 2024-10-09 | 5 | 32 | 2 | 14 | 5 | 179 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:39:02Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:59:37Z._
