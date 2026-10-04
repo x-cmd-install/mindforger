@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 99424533,
       "digest": "sha256:4b01c0e84a8d1aea7b94348d39142620bae982af3bf9c97dda55543453bbfa89",
-      "download_count": 40,
+      "download_count": 44,
       "created_at": "2026-09-26T21:35:36Z",
       "updated_at": "2026-09-26T21:36:04Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0-20260926.191335-intel.dmg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 58172000,
       "digest": "sha256:7aca2f4971be8f04abf9696927df5e5d27195964dd7fabc1e5178c45f7df6f36",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-09-26T21:35:18Z",
       "updated_at": "2026-09-26T21:35:36Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger-2.5.0.flatpak"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 149499904,
       "digest": "sha256:bbe1f0153c52898a4e6bc1d972dfdac6371407938cacc3a78a33e8c71b6f3b24",
-      "download_count": 43,
+      "download_count": 48,
       "created_at": "2026-09-26T21:36:04Z",
       "updated_at": "2026-09-26T21:36:48Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger_2.5.0_amd64.snap"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21845391,
       "digest": "sha256:172c3a0a3f2cecdf8ddfefacc573187aa9fc7f5d3eb8ce698a3dbc79a1925aaf",
-      "download_count": 14,
+      "download_count": 24,
       "created_at": "2026-09-26T21:36:48Z",
       "updated_at": "2026-09-26T21:36:56Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.5.0/mindforger_2.5.0_tarball.tgz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 94201329,
       "digest": "sha256:3cb3fc8c441578d59cafea43f51faa654e40d565f137f5b5fdcc959d21568315",
-      "download_count": 130,
+      "download_count": 139,
       "created_at": "2026-09-26T21:36:56Z",
       "updated_at": "2026-09-26T21:37:23Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.5.0/windows-installer-mindforger-2.5.0.exe"
