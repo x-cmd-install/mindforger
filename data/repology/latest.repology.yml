@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: mindforger
+  visiblename: mindforger
+  version: 2.0.0
+  origversion: null
+  status: outdated
+  summary: Thinking Notebook & Markdown IDE
+  maintainers:
+    - nixos@cyplo.dev
+  licenses:
+    - GPL-2.0-or-later
 - repo: aur
   srcname: mindforger
   binname: mindforger
@@ -54,17 +65,6 @@
     - nixos@cyplo.dev
   licenses:
     - GPL-2.0-or-later
-- repo: nix_stable_25_05
-  srcname: mindforger
-  visiblename: mindforger
-  version: 2.0.0
-  origversion: null
-  status: outdated
-  summary: Thinking Notebook & Markdown IDE
-  maintainers:
-    - nixos@cyplo.dev
-  licenses:
-    - GPL-2.0-or-later
 - repo: nix_stable_25_11
   srcname: mindforger
   visiblename: mindforger
@@ -94,9 +94,9 @@
   subrepo: extras
   binname: mindforger
   visiblename: mindforger
-  version: 2.0.1
+  version: 2.5.0
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - GPL-2.0-or-later
 - repo: solus
