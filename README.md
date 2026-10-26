@@ -38,7 +38,7 @@ Total: **212,971** lines of code across **695** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,724 · **Forks**: 173 · **Open issues**: 1,523 · **Contributors**: 11
+- **Stars**: 2,726 · **Forks**: 173 · **Open issues**: 1,523 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **212,971** lines of code across **695** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 11 | 2 | 1 | 3 | 0 |
-| last60d | 2026-08-26 | 5 | 39 | 2 | 8 | 3 | 111 |
-| 90d | 2026-07-27 | 5 | 39 | 2 | 8 | 3 | 116 |
-| last180d | 2026-04-28 | 5 | 39 | 2 | 9 | 3 | 136 |
-| 360d | 2025-10-30 | 5 | 40 | 2 | 9 | 3 | 155 |
-| last720d | 2024-11-04 | 5 | 41 | 2 | 14 | 5 | 179 |
+| 30d | 2026-09-26 | 1 | 11 | 2 | 1 | 2 | 0 |
+| last60d | 2026-08-27 | 5 | 39 | 2 | 8 | 3 | 111 |
+| 90d | 2026-07-28 | 5 | 39 | 2 | 8 | 3 | 116 |
+| last180d | 2026-04-29 | 5 | 39 | 2 | 9 | 3 | 136 |
+| 360d | 2025-10-31 | 5 | 40 | 2 | 9 | 3 | 155 |
+| last720d | 2024-11-05 | 5 | 41 | 2 | 14 | 5 | 179 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **212,971** lines of code across **695** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/mindforger). **2** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/mindforger). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:51:47Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:59:58Z._
