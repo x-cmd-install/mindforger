@@ -1,41 +1,7 @@
-- repo: aur
+- repo: nix_stable_25_11
   srcname: mindforger
-  binname: mindforger
   visiblename: mindforger
   version: 2.0.0
-  origversion: 2.0.0-2
-  status: outdated
-  summary: Thinking notebook and Markdown IDE. Search, browse, view and edit your Markdown files. Get as much as possible from knowledge in your remarks
-  maintainers:
-    - fabiololix@aur
-    - qtmax@aur
-  licenses:
-    - GPL-2.0-or-later
-- repo: homebrew_casks
-  srcname: mindforger
-  visiblename: MindForger
-  version: 2.0.0-20240217.170738
-  origversion: null
-  status: outdated
-  summary: Thinking notebook and Markdown IDE
-- repo: macports
-  srcname: editors/mindforger
-  binname: mindforger
-  visiblename: mindforger
-  version: 2.5.0
-  origversion: null
-  status: outdated
-  summary: Thinking notebook and Markdown editor
-  maintainers:
-    - herbygillot@github
-  licenses:
-    - GPL-2
-  categories:
-    - editors
-- repo: nix_stable_24_05
-  srcname: mindforger
-  visiblename: mindforger
-  version: 1.52.0
   origversion: null
   status: outdated
   summary: Thinking Notebook & Markdown IDE
@@ -65,10 +31,44 @@
     - nixos@cyplo.dev
   licenses:
     - GPL-2.0-or-later
-- repo: nix_stable_25_11
+- repo: aur
   srcname: mindforger
+  binname: mindforger
   visiblename: mindforger
   version: 2.0.0
+  origversion: 2.0.0-2
+  status: outdated
+  summary: Thinking notebook and Markdown IDE. Search, browse, view and edit your Markdown files. Get as much as possible from knowledge in your remarks
+  maintainers:
+    - fabiololix@aur
+    - qtmax@aur
+  licenses:
+    - GPL-2.0-or-later
+- repo: homebrew_casks
+  srcname: mindforger
+  visiblename: MindForger
+  version: 2.0.0-20240217.170738
+  origversion: null
+  status: outdated
+  summary: Thinking notebook and Markdown IDE
+- repo: macports
+  srcname: editors/mindforger
+  binname: mindforger
+  visiblename: mindforger
+  version: 2.6.0
+  origversion: null
+  status: newest
+  summary: Thinking notebook and Markdown editor
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - GPL-2
+  categories:
+    - editors
+- repo: nix_stable_24_05
+  srcname: mindforger
+  visiblename: mindforger
+  version: 1.52.0
   origversion: null
   status: outdated
   summary: Thinking Notebook & Markdown IDE
