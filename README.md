@@ -38,22 +38,22 @@ Total: **219,682** lines of code across **705** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,726 · **Forks**: 173 · **Open issues**: 1,523 · **Contributors**: 11
+- **Stars**: 2,726 · **Forks**: 173 · **Open issues**: 1,524 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 67 · **Open PRs**: 1 · **Closed issues**: 921 · **Open issues**: 602 · **Commits**: 2094
+- **Releases**: 18 · **Merged PRs**: 67 · **Open PRs**: 1 · **Closed issues**: 921 · **Open issues**: 603 · **Commits**: 2094
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 8 | 1 | 1 | 1 | 36 |
-| last60d | 2026-08-30 | 6 | 40 | 1 | 9 | 2 | 150 |
-| 90d | 2026-07-31 | 6 | 40 | 1 | 9 | 2 | 155 |
-| last180d | 2026-05-02 | 6 | 40 | 1 | 10 | 2 | 175 |
-| 360d | 2025-11-03 | 6 | 41 | 1 | 10 | 2 | 194 |
-| last720d | 2024-11-08 | 6 | 42 | 1 | 15 | 4 | 225 |
+| 30d | 2026-09-30 | 1 | 8 | 1 | 1 | 2 | 36 |
+| last60d | 2026-08-31 | 6 | 40 | 1 | 9 | 3 | 150 |
+| 90d | 2026-08-01 | 6 | 40 | 1 | 9 | 3 | 155 |
+| last180d | 2026-05-03 | 6 | 40 | 1 | 10 | 3 | 175 |
+| 360d | 2025-11-04 | 6 | 41 | 1 | 10 | 3 | 194 |
+| last720d | 2024-11-09 | 6 | 42 | 1 | 15 | 5 | 225 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **219,682** lines of code across **705** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/mindforger). **2** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/mindforger). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:06:53Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T07:09:58Z._
