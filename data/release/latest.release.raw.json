@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 100773447,
       "digest": "sha256:efc990e09ef001a3b8bf4b139a30fb8c768c9bc5bf42fc78dd1ff7d50b19c992",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-28T17:55:40Z",
       "updated_at": "2026-10-28T17:56:10Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.6.0/mindforger-2.6.0-20261028.170459-intel.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 150880256,
       "digest": "sha256:49352fe6f6bd73087c738e9c8cddc5fc7fba4493b84a9ae65b1ed69ef6508b16",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-28T17:56:30Z",
       "updated_at": "2026-10-28T17:57:14Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.6.0/mindforger_2.6.0_amd64.snap"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 95588503,
       "digest": "sha256:6f63e1d57f5bb946417c1a65191cbabfa1f77a95420ce258b768fc17dd9ed96b",
-      "download_count": 67,
+      "download_count": 84,
       "created_at": "2026-10-28T17:57:14Z",
       "updated_at": "2026-10-28T17:57:43Z",
       "browser_download_url": "https://github.com/dvorka/mindforger/releases/download/2.6.0/windows-installer-mindforger-2.6.0.exe"
