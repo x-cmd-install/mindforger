@@ -48,12 +48,12 @@ Total: **219,682** lines of code across **705** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 8 | 1 | 1 | 2 | 33 |
-| last60d | 2026-09-03 | 6 | 37 | 1 | 7 | 3 | 113 |
-| 90d | 2026-08-04 | 6 | 40 | 1 | 9 | 3 | 155 |
-| last180d | 2026-05-06 | 6 | 40 | 1 | 9 | 3 | 164 |
-| 360d | 2025-11-07 | 6 | 41 | 1 | 10 | 3 | 194 |
-| last720d | 2024-11-12 | 6 | 42 | 1 | 15 | 5 | 225 |
+| 30d | 2026-10-04 | 1 | 7 | 1 | 1 | 2 | 33 |
+| last60d | 2026-09-04 | 5 | 37 | 1 | 7 | 3 | 113 |
+| 90d | 2026-08-05 | 6 | 40 | 1 | 9 | 3 | 155 |
+| last180d | 2026-05-07 | 6 | 40 | 1 | 9 | 3 | 164 |
+| 360d | 2025-11-08 | 6 | 41 | 1 | 10 | 3 | 194 |
+| last720d | 2024-11-13 | 6 | 42 | 1 | 15 | 5 | 225 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:40:12Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:25:40Z._
