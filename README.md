@@ -38,7 +38,7 @@ Total: **219,682** lines of code across **705** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,723 · **Forks**: 173 · **Open issues**: 1,524 · **Contributors**: 11
+- **Stars**: 2,724 · **Forks**: 173 · **Open issues**: 1,524 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **219,682** lines of code across **705** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 7 | 1 | 0 | 2 | 33 |
-| last60d | 2026-09-07 | 5 | 37 | 1 | 7 | 3 | 113 |
-| 90d | 2026-08-08 | 6 | 40 | 1 | 9 | 3 | 155 |
-| last180d | 2026-05-10 | 6 | 40 | 1 | 9 | 3 | 164 |
-| 360d | 2025-11-11 | 6 | 41 | 1 | 10 | 3 | 194 |
-| last720d | 2024-11-16 | 6 | 42 | 1 | 15 | 5 | 225 |
+| 30d | 2026-10-08 | 1 | 7 | 1 | 0 | 2 | 33 |
+| last60d | 2026-09-08 | 5 | 37 | 1 | 7 | 3 | 113 |
+| 90d | 2026-08-09 | 6 | 40 | 1 | 9 | 3 | 155 |
+| last180d | 2026-05-11 | 6 | 40 | 1 | 9 | 3 | 164 |
+| 360d | 2025-11-12 | 6 | 41 | 1 | 10 | 3 | 194 |
+| last720d | 2024-11-17 | 6 | 42 | 1 | 15 | 5 | 225 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:00:40Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:26:32Z._
