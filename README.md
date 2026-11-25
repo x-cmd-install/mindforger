@@ -48,12 +48,12 @@ Total: **219,682** lines of code across **705** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-09-25 | 2 | 12 | 1 | 2 | 5 | 37 |
-| 90d | 2026-08-26 | 6 | 40 | 1 | 9 | 5 | 155 |
-| last180d | 2026-05-28 | 6 | 40 | 1 | 9 | 5 | 155 |
-| 360d | 2025-11-29 | 6 | 41 | 1 | 10 | 5 | 194 |
-| last720d | 2024-12-04 | 6 | 42 | 1 | 15 | 7 | 225 |
+| 30d | 2026-10-26 | 1 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-09-26 | 2 | 12 | 1 | 2 | 4 | 37 |
+| 90d | 2026-08-27 | 6 | 40 | 1 | 9 | 5 | 155 |
+| last180d | 2026-05-29 | 6 | 40 | 1 | 9 | 5 | 155 |
+| 360d | 2025-11-30 | 6 | 41 | 1 | 10 | 5 | 194 |
+| last720d | 2024-12-05 | 6 | 42 | 1 | 15 | 7 | 225 |
 
 ## Release assets
 
@@ -69,10 +69,6 @@ Total: **219,682** lines of code across **705** files in the top 5 languages.
 | [mindforger_2.6.0_tarball.tgz](https://github.com/dvorka/mindforger/releases/download/2.6.0/mindforger_2.6.0_tarball.tgz) | 24.3 MiB | `native/unknown` |
 | [windows-installer-mindforger-2.6.0.exe](https://github.com/dvorka/mindforger/releases/download/2.6.0/windows-installer-mindforger-2.6.0.exe) | 91.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/mindforger). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for mindforger lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mindforger` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +78,4 @@ Install metadata for mindforger lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:52:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:28:21Z._
